@@ -135,12 +135,11 @@ Ngoài ra, doanh số thể hiện xu hướng mùa vụ rõ rệt với đỉnh
 
 ## VIII. Công cụ sử dụng
 
-- Microsoft Excel
-  - Pivot Table
-  - Pivot Chart
-  - Slicer
-  - Conditional Formatting
-  - Data Cleaning
+Pivot Tables & Pivot Charts
+Slicers & Timeline filters
+KPI Cards
+Data Cleaning
+Custom Formatting & Dashboard Layout
 
 ---
 
