@@ -87,7 +87,7 @@ Sử dụng Excel để xây dựng Dashboard tương tác nhằm hỗ trợ ng�
 
 ### Dashboard Tổng Quan
 
-<img width="1516" height="625" alt="image" src="https://github.com/user-attachments/assets/8161ec32-935d-44b6-9ff4-bd9218c8ed08" />
+<img width="1590" height="646" alt="image" src="https://github.com/user-attachments/assets/8e654642-51fc-40fe-9ee8-d77db63682d7" />
 
 
 ---
