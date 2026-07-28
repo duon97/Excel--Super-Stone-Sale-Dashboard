@@ -104,7 +104,7 @@ AOV (giá trị đơn hàng trung bình) = 733,215.26 / 1608 ≈ $456/đơn. Doa
 Trong chart Product Sales by Category, cột Phones (thuộc Technology) đạt khoảng $105K, cao nhất trong toàn bộ các category con, vượt xa Bookcases hay Storage. Điều này khớp với Top 10 Products khi sản phẩm như Samsung Galaxy Mega 6.3 lọt vào top 5.
 
 ## Top 10 Products bị chi phối bởi thiết bị giá trị đơn vị cao, không phải số lượng lớn. 
-Canon imageCLASS 2200 Advanced Copier dẫn đầu với gần $40K, gấp đôi sản phẩm thứ hai. Phần lớn top 10 là máy photocopy, máy in, máy đóng gáy — tức doanh số cao đến từ đơn giá cao chứ chưa chắc đến từ sales volume. Nếu muốn biết sản phẩm nào thực sự "bán chạy" (số lượng), cần thêm chart Quantity, vì chart hiện tại chỉ thể hiện Sales.
+Canon imageCLASS 2200 Advanced Copier dẫn đầu với gần $40K, gấp đôi sản phẩm thứ hai. Phần lớn top 10 là máy photocopy, máy in, máy đóng gáy — tức doanh số cao đến từ đơn giá cao chứ chưa chắc đến từ sales volume. 
 
 ## Sales by State có một outlier rất đáng ngờ. 
 Carlifornia đạt 146,388.34, cao gấp 1,5–10 lần hầu hết các bang khác (đa số dưới $30K, một vài bang như New Mexico ~$94K, Texas ~$65K). Cần kiểm tra xem có đơn hàng lỗi, double-counting, hay chỉ đơn giản là dữ liệu 2017 có một deal lớn bất thường tại đó. Trước khi đưa insight này vào báo cáo, nên trace lại transaction-level data của bang đó.
